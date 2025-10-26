@@ -1,2 +1,3 @@
-﻿# Glowing Christmas Tree in Python 🎄
-Just run the code as a plain old python file, edit the " SONG " portion if you like any other songs ! WIP 
+﻿# Glowing Christmas Tree in Python 
+Run the code as a standard Python file, and edit the "SONG " portion if you'd like to use any other songs. WIP 
+
